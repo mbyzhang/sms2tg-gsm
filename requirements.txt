@@ -1,0 +1,4 @@
+git+https://github.com/mbyzhang/python-gsmmodem.git
+sqlalchemy
+dataclass_wizard
+telebot
